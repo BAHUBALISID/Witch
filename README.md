@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="Witch.png" alt="Witch Logo" width="250">
+</p>
+
 # WITCH – Advanced API Security & Secret Hunter  
 #### Created by sid7.py (ProxyNation)
 
