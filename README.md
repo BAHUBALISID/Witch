@@ -34,7 +34,11 @@ cd Witch
 pip install -r requirements.txt
 ```
 ---
+## Usage
+```
+python witch.py example.com -o example.json
 
+```
 ## Output Example
 
 After a scan you will see:
